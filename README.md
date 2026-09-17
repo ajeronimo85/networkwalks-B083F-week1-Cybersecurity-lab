@@ -19,3 +19,7 @@ div align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
 </p>
+
+
+# CREENSHOTS
+![](OS Instaled.png)
