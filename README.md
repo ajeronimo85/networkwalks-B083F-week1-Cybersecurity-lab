@@ -27,4 +27,6 @@ div align="center">
 
 ![](2-screenshot-windows-networksethings.png)
 
+![](3-screenshot-kalilinux-networksethings.png)
+
 
