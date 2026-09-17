@@ -22,4 +22,4 @@ div align="center">
 
 
 # CREENSHOTS
-![](OS Instaled.png)
+
