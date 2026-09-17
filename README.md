@@ -22,7 +22,6 @@ div align="center">
 
 
 # CREENSHOTS
-
-![](OS Instaled.png)
+![](1-screenshot-osinstlad.png)
 
 
